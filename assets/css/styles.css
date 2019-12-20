@@ -2,10 +2,10 @@
     font-family: 'benton-sans', sans-serif;
 }
 a{
-    color: #8ec7c6;
+    color: #cd412a;
 }
 a:hover{
-    color: #cd412a;
+    color: #8ec7c6;
 }
 html, body{
     height: 100%;
