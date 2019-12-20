@@ -153,8 +153,14 @@ footer{
 
 }
 .footer-logos img{
-    width: 300px;
-    /* padding: 10px; */
+    width: 100%;
+}
+.foot-logo{
+    width: 200px;
+    margin: 0 20px;
+}
+.dshs-logo{
+    width:250px;
 }
 .footer-logos{
     padding-bottom: 10px;
