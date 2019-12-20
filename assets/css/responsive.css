@@ -52,6 +52,13 @@
     img.diagram{
         padding:0;
     }
+
+    .banner{
+        height: auto;
+    }
+    #intro-row{
+        height: auto;
+    }
     
 }
 

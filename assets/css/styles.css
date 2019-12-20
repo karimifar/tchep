@@ -22,7 +22,7 @@ body{
 }
 footer{
     flex-shrink: 0;
-
+    z-index: 111;
 }
 .page-row{
     width: 70%;

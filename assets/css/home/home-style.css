@@ -9,12 +9,10 @@ a{
 }
 .banner{
     position: relative;
-    height: auto;
-    display: table
+    /* height: auto; */
 }
 #intro-row{
-    height: auto;
-    display: table-row !important;
+    /* height: auto; */
 }
 .banner-img-wrap{
     position: absolute;
