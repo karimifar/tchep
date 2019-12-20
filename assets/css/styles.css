@@ -48,6 +48,7 @@ h1.page-title-noBanner{
     text-shadow: 0 0 1px #fff;
     border-left: 3px solid #cd412a;
     padding: 0 15px;
+    margin-top: 5%;
     width: fit-content;
 }
 .page-row p{
