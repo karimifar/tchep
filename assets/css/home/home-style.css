@@ -1,6 +1,4 @@
-.banner{
-    position: relative;
-}
+
 a{
     color: #497aa0;
 }
@@ -8,6 +6,15 @@ a{
     width:100%;
     height: 80vh;
     min-height: 700px;
+}
+.banner{
+    position: relative;
+    height: auto;
+    display: table
+}
+#intro-row{
+    height: auto;
+    display: table-row !important;
 }
 .banner-img-wrap{
     position: absolute;
