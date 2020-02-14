@@ -1,0 +1,9 @@
+.contact{
+    padding: 20px 15px 5%;
+}
+.contact-name strong{
+    font-weight: 600;
+}
+.contact-name{
+    margin-bottom: 20px;
+}

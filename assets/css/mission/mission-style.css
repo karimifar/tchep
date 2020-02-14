@@ -1,0 +1,16 @@
+.about{
+    padding: 20px 15px 5%;
+}
+
+.about ul{
+    list-style-type: ;
+    padding: 20px;
+}
+.about ul.highlighted li{
+    padding: 10px;
+    background: #136e8f33
+}
+
+.about ul.highlighted li:nth-child(even){
+    background: #136e8f11
+}
