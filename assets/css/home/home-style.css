@@ -22,18 +22,18 @@ a{
     background: #9da0a166;
     opacity: 1;
     background-blend-mode: multiply;
-    background-image: url("../../img/banner3.jpeg");
+    background-image: url("../../img/home-banner.jpg");
     background-size: cover;
-    background-position: 50% 70%;
+    background-position: 50% 10%;
 }
 .banner-overlay{
     position: absolute;
-    background: linear-gradient(0deg, rgba(255,255,255,0.2) 0%, rgba(19,110,143,0.5) 60%);;
+    background: linear-gradient(0deg, rgba(255,255,255,0.2) 0%, rgba(19,110,143,0.3) 60%);;
     opacity: 1;
 }
 .banner-overlay2{
     position: absolute;
-    background: linear-gradient(0deg, #497aa055 0%, rgba(255,255,255,0.4) 100%);;
+    background: linear-gradient(0deg, #497aa055 0%, rgba(255,255,255,0.2) 100%);;
     opacity: 1;
 }
 
