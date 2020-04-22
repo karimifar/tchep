@@ -2,10 +2,10 @@
     font-family: 'benton-sans', sans-serif;
 }
 a{
-    color: #cd412a;
+    color: #AC2A36;
 }
 a:hover{
-    color: #8ec7c6;
+    color: #60B8B3;
 }
 html, body{
     height: 100%;
@@ -35,18 +35,18 @@ h1.page-title{
     top:23vh;
     z-index: 200;
     color: #fff;
-    background: #8ec7c6;
+    background: #60B8B3;
     text-shadow: 0 0 1px #fff;
-    border-left: 3px solid #cd412a;
+    border-left: 3px solid #AC2A36;
     padding: 0 15px;
     /* font-weight: 500; */
 }
 h1.page-title-noBanner{
     z-index: 200;
     color: #fff;
-    background: #8ec7c6;
+    background: #60B8B3;
     text-shadow: 0 0 1px #fff;
-    border-left: 3px solid #cd412a;
+    border-left: 3px solid #AC2A36;
     padding: 0 15px;
     margin-top: 5%;
     width: fit-content;
@@ -76,7 +76,7 @@ ul a{
     color: #111;
 }
 ul a:hover{
-    color: #8ec7c6;
+    color: #60B8B3;
 }
 .dropdown-toggle::after{
     display: none;
@@ -103,7 +103,7 @@ ul a:hover{
     background: #ddd;
 }
 .dropdown-item:hover{
-    color: #8ec7c6;
+    color: #60B8B3;
     
 }
 h1{
@@ -172,7 +172,7 @@ footer{
     /* padding: 20px; */
 }
 .footer-row p a{
-    color: #8ec7c6;
+    color: #60B8B3;
 }
 
 
@@ -220,13 +220,13 @@ ul.myList{
 }
 ul.myList li{
     padding: 10px 20px;
-    background: #8ec7c610;
+    background: #60B8B310;
     max-width: 900px;
     margin: auto;
 }
 
 ul.myList li:nth-child(even){
-    background: #8ec7c630;
+    background: #60B8B330;
 }
 
 ul.numlist{
@@ -241,7 +241,7 @@ ul.numlist li{
     top:0;
     left:0;
     width: 100%;
-    background: linear-gradient(0deg, #8ec7c6 0%, #193a66 50%);;
+    background: linear-gradient(0deg, #60B8B3 0%, #193a66 50%);;
     ;
     padding: 5px 10%;
     padding-bottom: 6px;
