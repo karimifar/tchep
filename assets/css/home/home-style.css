@@ -87,3 +87,11 @@ a{
 .structure li:nth-child(even){
     background: #497aa030;
 }
+
+.story{
+    /* height: 3000px; */
+    padding: 30px 10%;
+}
+.story img {
+    max-width: 100%;
+}

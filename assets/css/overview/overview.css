@@ -1,0 +1,34 @@
+.story{
+    margin:0 50px;
+}
+.story h2{
+    max-width: 800px;
+    margin-top: 8%;
+}
+p.story-intro{
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #60B8B3
+}
+.story img{
+    max-width: 100%;
+}
+.story ul{
+    padding: 20px;
+    max-width: 800px;
+    font-weight: 500;
+}
+ul li{
+    margin-bottom: 10px;
+}
+
+.flourish{
+    width:45%;
+    margin-top: 50px;
+}
+.flourish h4{
+    color: #60B8B3;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
