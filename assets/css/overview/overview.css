@@ -1,3 +1,6 @@
+h1.page-title-noBanner{
+    margin-bottom: 5%;
+}
 .story{
     margin:0 50px;
 }
@@ -6,10 +9,11 @@
     margin-top: 8%;
 }
 p.story-intro{
-    padding: 20px;
-    font-size: 24px;
+    padding: 0px 20px;
+    font-size: 22px;
     font-weight: 500;
-    color: #60B8B3
+    color: #264B58;
+    margin-bottom: 1em;
 }
 .story img{
     max-width: 100%;
@@ -31,4 +35,8 @@ ul li{
     color: #60B8B3;
     font-size: 20px;
     margin-bottom: 20px;
+}
+.flourish-credit{
+    opacity: 0.4;
+    /* color: red; */
 }
