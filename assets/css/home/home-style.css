@@ -12,11 +12,11 @@ a{
 }
 .banner{
     position: relative;
-    overflow: scroll;
     /* height: auto; */
 }
 #intro-row{
     /* height: auto; */
+    overflow: scroll;
 }
 .banner-img-wrap{
     position: absolute;
