@@ -1,25 +1,45 @@
 h1.page-title-noBanner{
     margin-bottom: 5%;
+    margin-top:0;
+}
+.page-row{
+    max-width: 100%;
+    width: 100%;
+    background: #264B58;
+    padding: 100px 10%;
 }
 .story{
-    margin:0 50px;
+    margin:0 10%;
+}
+.story-sec{
+    padding: 80px 0;
+    border-bottom: #264B5855 1px solid;
+}
+.story-sec:last-child{
+    border-bottom: none;
+ 
 }
 .story h2{
     max-width: 800px;
-    margin-top: 8%;
+
+    margin-bottom: 20px;
 }
 p.story-intro{
     padding: 0px 20px;
     font-size: 22px;
-    font-weight: 500;
+    font-weight: 300;
     color: #264B58;
+    color: #fff;
+    margin: auto;
     margin-bottom: 1em;
+    max-width: 1200px;
+    
 }
 .story img{
     max-width: 100%;
 }
 .story ul{
-    padding: 20px;
+    padding: 0 20px;
     max-width: 800px;
     font-weight: 500;
 }
@@ -29,9 +49,9 @@ ul li{
 
 .flourish{
     width:45%;
-    margin-top: 50px;
+    /* margin-top: 50px; */
 }
-.flourish h4{
+.story-sec h4{
     color: #60B8B3;
     font-size: 20px;
     margin-bottom: 20px;
@@ -39,4 +59,8 @@ ul li{
 .flourish-credit{
     opacity: 0.4;
     /* color: red; */
+}
+
+.story-h{
+    /* width: 50%; */
 }
