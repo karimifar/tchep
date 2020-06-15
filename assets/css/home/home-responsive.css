@@ -2,4 +2,7 @@
     #intro-row{
         position: relative;
     }
+    .init-card{
+        height: 300px;
+    }
 }

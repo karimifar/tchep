@@ -88,6 +88,7 @@ ul a:hover{
 
 
 
+
 @media only screen and (min-width: 992px) {
     ul.navbar-nav li.dropdown:hover .dropdown-menu {
         display: block;
