@@ -91,6 +91,10 @@ a{
 
 
 
+
+
+
+
 .flourish-credit{
     opacity: 0;
     /* color: red; */
@@ -130,4 +134,105 @@ a{
 }
 .overview-link:hover h3{
     background-color: #60B8B3;
+}
+.row{
+    margin:0;
+    padding: 20px 15%;
+}
+
+.overview-row h1{
+    font-size: 42px;
+    padding: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    max-width: 700px;
+}
+
+.overview-row .overview-text{
+    text-align: center;
+}
+.overview-text button{
+    padding: 20px 50px;
+    background-color: #fff;
+    color: #bd4630;
+    border-radius: 20px;
+    border:1px solid #bd4630;
+    transition: 0.2s all ease-in-out;
+    font-weight: 500;
+}
+.overview-text button:hover{
+    background-color: #bd4630cc;
+    color: #fff;
+}
+img{
+    max-width: 100%;
+}
+.int-map{
+    padding: 40px;
+}
+.init-wrap{
+    flex-wrap: wrap;
+}
+.init-wrap a{
+    width: 50%;
+    min-width: 300px;
+    flex-grow: 1;
+    padding: 10px;
+}
+.init-card{
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+    transition: all 0.2s ease-in-out;
+    
+}
+.init-card img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    transition: all 0.2s ease-in-out;
+}
+.init-card .init-overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+    background: linear-gradient(180deg, rgba(96,184,179,0.6) 0%, rgba(255,255,255,0) 100%);
+
+}
+.init-card h2{
+    position: absolute;
+    padding: 20px;
+    font-weight: 200;
+    max-width: 500px;
+    z-index: 4;
+    top: 0;
+    color: #fff
+}
+
+.init-row{
+    background-color: #60B8B322;
+    padding-bottom: 100px;
+    margin-bottom: 5px;
+}
+
+h1.init-title{
+    z-index: 200;
+    color: #fff;
+    background: #60B8B3;
+    text-shadow: 0 0 1px #fff;
+    border-left: 3px solid #AC2A36;
+    padding: 0 15px;
+    margin: 5% 0;
+    width: fit-content;
+}
+
+.init-card:hover img{
+    transform: scale(1.1);
+}
+
+.init-card:hover{
+    border: 1px solid #bd4630;
+    border-radius: 5px;
 }
