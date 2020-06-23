@@ -23,6 +23,10 @@
 }
 
 @media only screen and (max-width: 600px) {
+    .init-card{
+        position: relative;
+        height: 200px;
+    }
 
 }
 
