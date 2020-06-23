@@ -11,6 +11,9 @@ h1.page-title-noBanner{
 .story{
     margin:0 10%;
 }
+img{
+    max-width: 100%;
+}
 .story-sec{
     padding: 80px 0;
     border-bottom: #264B5855 1px solid;
