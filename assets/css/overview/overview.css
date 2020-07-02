@@ -18,6 +18,9 @@ img{
     padding: 80px 0;
     border-bottom: #264B5855 1px solid;
 }
+.story-sec.noBorder{
+    border-bottom: none;
+}
 .story-sec:last-child{
     border-bottom: none;
  
@@ -35,8 +38,13 @@ p.story-intro{
     color: #fff;
     margin: auto;
     margin-bottom: 1em;
-    max-width: 1200px;
-    
+    max-width: 1200px;   
+}
+p.lastP{
+    font-size: 18px;
+}
+.lastP a{
+ color: #60B8B3;
 }
 .story img{
     max-width: 100%;
