@@ -7,12 +7,21 @@
     display: flex;
 }
 .init-info{
-    width: 70%;
+    width: 60%;
     padding: 0 20px;
 }
 .init-img{
-    width:30%;
+    width:40%;
 }
 .init-img img{
     width: 100%;
+}
+h2{
+    color: #AC2A36;
+}
+.init-info ul li{
+    margin-bottom: 10px;
+}
+.init-info ul li{
+    /* background-color: thistle; */
 }

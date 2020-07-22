@@ -175,7 +175,7 @@ img{
 }
 .init-wrap a{
     width: 30%;
-    min-width: 300px;
+    min-width: 200px;
     flex-grow: 1;
     padding: 10px;
 }
