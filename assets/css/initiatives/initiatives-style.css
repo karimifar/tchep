@@ -1,3 +1,18 @@
 .initiatives{
     padding: 20px 15px 5%;
 }
+
+.init-wrap{
+    padding: 20px;
+    display: flex;
+}
+.init-info{
+    width: 70%;
+    padding: 0 20px;
+}
+.init-img{
+    width:30%;
+}
+.init-img img{
+    width: 100%;
+}

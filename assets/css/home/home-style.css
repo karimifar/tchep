@@ -174,7 +174,7 @@ img{
     flex-wrap: wrap;
 }
 .init-wrap a{
-    width: 50%;
+    width: 30%;
     min-width: 300px;
     flex-grow: 1;
     padding: 10px;
