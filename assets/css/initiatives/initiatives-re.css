@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1440px) {
+   
+}
+
+@media only screen and (max-width: 1240px) {
+
+    
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .init-img{
+        width:100%;
+    }
+    .init-info{
+        width:100%;
+        padding-top: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 575px) {
+    
+    
+}

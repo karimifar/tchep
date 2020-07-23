@@ -3,8 +3,13 @@
 }
 
 .init-wrap{
-    padding: 20px;
+    padding: 20px 0;
     display: flex;
+    flex-wrap: wrap;
+}
+hr{
+    border: 1px solid #8AC7BB55  ;
+
 }
 .init-info{
     width: 60%;
@@ -12,9 +17,14 @@
 }
 .init-img{
     width:40%;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 10px;
 }
 .init-img img{
     width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 h2{
     color: #AC2A36;
