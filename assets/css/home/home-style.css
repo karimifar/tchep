@@ -2,6 +2,19 @@
 a{
     color: #60B8B3;
 }
+.pre-banner{
+    background: #60B8B3;
+    padding: 10px;
+    text-align: center;
+}
+.pre-banner a{
+    color: #fff;
+    font-weight: 600;
+    
+}
+.pre-banner a i{
+    padding: 5px 8px;
+}
 .banner-img-wrap, .banner-overlay, #intro-row, .banner, .banner-overlay2{
     width:100%;
     height: 70vh;
