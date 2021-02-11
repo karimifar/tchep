@@ -6,6 +6,8 @@ a{
     background: #264B58;
     padding: 10px;
     text-align: center;
+    border-bottom: #60B8B3 1px solid;
+    border-top: #60B8B3 1px solid;
 }
 .pre-banner a{
     color: #fff;
