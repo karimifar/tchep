@@ -1,0 +1,16 @@
+.webinars{
+    padding: 20px 15px 5%;
+}
+.series{
+    /* display: flex; */
+}
+.series a{
+    display: flex;
+}
+.actions{
+    display: flex;
+}
+.series a .icon{
+    font-size: 48px;
+    color: #193a66;
+}
