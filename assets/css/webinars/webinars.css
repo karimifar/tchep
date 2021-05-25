@@ -3,11 +3,11 @@
 }
 .series{
     padding: 20px 10px;
-    width: 50%;
+    /* width: 50%; */
 }
 .series h2{
     color: #60B8B3;
-    font-weight: 100;
+    font-weight: 500;
 }
 .series h2 span{
     font-weight: 500;
@@ -17,7 +17,9 @@
 }
 .series a p{
     padding: 10px 10px;
-    max-width: 300px;
+    align-self: center;
+    width: fit-content;
+    /* max-width: 300px; */
 }
 .actions{
     display: flex;
@@ -26,6 +28,8 @@
 .series a .icon{
     font-size: 48px;
     color: #193a66;
+    align-self: center;
+    width: 50px;
 }
 
 .series a:hover .icon{
