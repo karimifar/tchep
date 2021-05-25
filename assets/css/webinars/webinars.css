@@ -2,15 +2,35 @@
     padding: 20px 15px 5%;
 }
 .series{
-    /* display: flex; */
+    padding: 20px 10px;
+    width: 50%;
+}
+.series h2{
+    color: #60B8B3;
+    font-weight: 100;
+}
+.series h2 span{
+    font-weight: 500;
 }
 .series a{
     display: flex;
 }
+.series a p{
+    padding: 10px 10px;
+    max-width: 300px;
+}
 .actions{
     display: flex;
+    flex-wrap: wrap;
 }
 .series a .icon{
     font-size: 48px;
     color: #193a66;
+}
+
+.series a:hover .icon{
+    color: #193a66bb;
+}
+.series a:hover{
+    color: #193a66bb;
 }
