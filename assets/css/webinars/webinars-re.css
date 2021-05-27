@@ -3,4 +3,9 @@
     .series{
         width: 100%;
     }
+    .series a .icon{
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+    }
 }
