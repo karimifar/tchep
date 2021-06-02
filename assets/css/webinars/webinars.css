@@ -44,3 +44,6 @@
 .series a:hover{
     color: #193a66bb;
 }
+iframe{
+    border: none;
+}
