@@ -47,3 +47,27 @@
 iframe{
     border: none;
 }
+
+hr{
+    margin: 20px 0;
+}
+.webinar-vid h2{
+    color: #193a66;
+    font-weight: 600;
+    font-size: 18px;
+}
+.webinar-vid{
+    margin-bottom: 20px;
+}
+.vid-wrap{
+    position: relative;
+    padding-bottom: 57%;
+}
+.webinar-vid iframe{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
