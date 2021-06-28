@@ -29,6 +29,11 @@ a{
     position: relative;
     /* height: auto; */
 }
+.banner a{
+    background-color: #60B8B3;
+    color: #fff;
+    padding: 1px 5px;
+}
 #intro-row{
     /* height: auto; */
     overflow: scroll;
