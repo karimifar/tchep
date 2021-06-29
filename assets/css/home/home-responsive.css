@@ -5,18 +5,18 @@
 }
 
 @media only screen and (max-width: 1240px) {
-    
-    
-}
-
-
-@media only screen and (max-width: 992px) {
     #intro-row{
         position: relative;
     }
     .row{
         padding: 10px 5%;
     }
+    
+}
+
+
+@media only screen and (max-width: 992px) {
+
     .init-card{
         height: 300px;
     }
